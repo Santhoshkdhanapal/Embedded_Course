@@ -1,0 +1,2 @@
+This text no longer prints to the terminal console!
+It was written through redirected File Descriptor 1.

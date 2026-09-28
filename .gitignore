@@ -1,0 +1,13 @@
+#kernel build artifacts
+*.ko
+*.o
+*.mod
+*.mod.c
+*.order
+*.symvers
+.tmp_versions/
+.*.cmd
+#c++binaries
+kshiled_daemon
+#vscodedir
+.vscode/
